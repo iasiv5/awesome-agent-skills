@@ -66,10 +66,10 @@ Agent Skills 开放标准已得到 OpenAI/Google/Github/Cursor 等多家 AI 行�
 
 ### 文档处理
 
--   **[docx](https://github.com/anthropics/skills/tree/main/skills/docx)**：创建、编辑和分析 Word 文档，支持修订、评论、格式保留和文本提取
--   **[pdf](https://github.com/anthropics/skills/tree/main/skills/pdf)**：全面的 PDF 操作工具包，用于提取文本和表格、创建新 PDF、合并/拆分文档以及处理表单
--   **[pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)**：创建、编辑和分析 PowerPoint 演示文稿，支持布局、模板、图表和自动幻灯片生成
--   **[xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)**：创建、编辑和分析 Excel 电子表格，支持公式、格式、数据分析和可视化
+-   [docx](https://github.com/anthropics/skills/tree/main/skills/docx)：创建、编辑和分析 Word 文档，支持修订、评论、格式保留和文本提取
+-   [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf)：全面的 PDF 操作工具包，用于提取文本和表格、创建新 PDF、合并/拆分文档以及处理表单
+-   [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx)：创建、编辑和分析 PowerPoint 演示文稿，支持布局、模板、图表和自动幻灯片生成
+-   [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx)：创建、编辑和分析 Excel 电子表格，支持公式、格式、数据分析和可视化
 
 ### 编程工具
 
