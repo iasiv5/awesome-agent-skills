@@ -22,7 +22,7 @@
 
 本项目致力于收集和分享最优质的中文 Agent Skills 教程、案例和实践，欢迎通过 Issues 提交资源参与共建。
 
-> 关注我的 🐦‍⬛ 账号 [@李不凯正在研究](https://x.com/libukai) ，即时获取 Agent Skills 的最新资讯和实用教程！
+> 欢迎关注我的 🐦‍⬛ 账号 [@李不凯正在研究](https://x.com/libukai) ，即时获取 Agent Skills 的最新资讯和实用教程！
 
 
 ## 快速入门
@@ -107,7 +107,7 @@ Agent Skills 开放标准已得到 OpenAI/Google/Github/Cursor 等多家 AI 行�
 
 ### 其他类型
 
--   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)：宝玉老师的自用 SKills 集合
+-   [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills)：宝玉老师的自用 SKills 集合，包括自动发公众号功能等
 -   [huangserva/skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator)：使用 Skill 生成和优化文生图提示词
 -   [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files)：使用文件规划实现类 Manus 效果的 Skill
 -   [anthropics/skills](https://github.com/anthropics/skills)：Anthropic 官方 Skills 集合，适合学习 Skill 优质实例
@@ -122,7 +122,7 @@ Agent Skills 开放标准已得到 OpenAI/Google/Github/Cursor 等多家 AI 行�
 ## 待审查资源
 
 > ⚠️ 警告
-> 以下资源尚未经过严格审查，可能存在质量参差不齐的情况。请谨慎使用，并在实际应用前进行充分测试。
+> 以下资源尚未经过严格审查，可能存在质量参差不齐的情况，请谨慎使用风险自负。
 
 -   [runkids/skillshare](https://github.com/runkids/skillshare): 通过一个命令同步多个 CLI 中的 Skills 
 
