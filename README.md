@@ -52,9 +52,9 @@ Agent Skills 是一个由 Anthropic 维护的 [开放标准](https://agentskills
 
 ## 官方支持
 
-Agent Skills 开放标准已得到 OpenAI/Google/Github/Cursor 等多家 AI 行业领军公司的支持，迅速成为各大主流 AI 编程工具的标配。
+Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI 行业领军公司的支持，迅速成为各大主流 AI 编程工具的标配。
 
-安装 Agent Skills，只需要将 Skill 文件夹放入对应的目录即可，也可以使用 [runkids/skillshare](https://github.com/runkids/skillshare) 进行多工具同步。
+安装 Agent Skills，只需要将 Skill 文件夹放入对应的目录即可。也可以使用 Vercel 官方出品的 [add-skill](https://github.com/vercel-labs/add-skill) 工具通过命令行快速添加，如果有多 Coding CLI 同步需求，还可以使用 [runkids/skillshare](https://github.com/runkids/skillshare) 进行统一管理。
 
 ![](assets/skills_path.png)
 
