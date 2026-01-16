@@ -77,9 +77,9 @@ Agent Skills 开放标准已得到 OpenAI/Google/Microsoft/Cursor 等多家 AI �
 
 推荐使用 [skillsmp](https://skillsmp.com/zh) 在线商店。该商店中自动抓取了 Github 上的所有的 Skills 项目，并按照分类、更新时间、Star 数量等标签进行了整理。
 
-其他特色 Agent Skills 商店还有：
-
+其他特色 Agent Skills 商店：
 -   [SkillStore](https://skillstore.io/zh-hans)：对 Skill 进行了安全审计的中文商店
+-   [agentskills.me](https://agentskills.me/)：一个提供 Skill 开发者分成机制的商店
 -   [skills.rest](https://skills.rest/)：提供 Skill 评分的 Agent Skills 商店
 -   [活水插件](https://42plugin.com/)：中文 Plugin 商店， 包括 Skills 板块
 
